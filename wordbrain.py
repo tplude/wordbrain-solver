@@ -115,4 +115,4 @@ def main():
     #pp.pprint(legal_sequences)
 
 if __name__ == '__main__':
-    main()
+`<    main()
